@@ -78,5 +78,3 @@ info:
   company.name: www.cens.com
   build.artifactId: $project.artifactId$
   build.version: $project.version$
-
-© 2018 GitHub, Inc.
